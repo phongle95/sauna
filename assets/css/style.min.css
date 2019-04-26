@@ -441,7 +441,7 @@ a:focus {
 .header-top {
 	padding-top: .4rem;
 	padding-bottom: .4rem;
-	background-color: #ececec;
+	background-color: #fff;
 	color: #999;
 	font-size: 1.1rem;
 	letter-spacing: .025rem;
@@ -1435,7 +1435,7 @@ a:focus {
 
 .main-nav {
 	width: 100%;
-	background-color: #ececec
+	background-color: #fff
 }
 
 .menu,
@@ -1943,7 +1943,7 @@ a:focus {
 
 .sticky-header.fixed .main-nav {
 	width: auto;
-	background-color: transparent
+	background-color: transparent;
 }
 
 .sticky-header.fixed .menu>li>a {
